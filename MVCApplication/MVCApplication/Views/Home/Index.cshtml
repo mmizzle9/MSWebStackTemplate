@@ -1,0 +1,16 @@
+﻿@using MVCApplication.ServiceReference1;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<ol>
+    @{
+        foreach(TestModel model in Model)
+        {
+            <li>
+                @string.Format("{0} {1}", model.Column1, model.Column2)
+            </li>
+        }
+    }
+</ol>

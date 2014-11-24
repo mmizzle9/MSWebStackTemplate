@@ -1,0 +1,1 @@
+D:\GitHub\WebApplication\MVCApplication\MVCApplication\obj\Debug\MVCApplication.csprojResolveAssemblyReference.cache

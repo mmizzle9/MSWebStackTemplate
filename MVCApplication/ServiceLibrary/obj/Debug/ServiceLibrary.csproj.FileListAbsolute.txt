@@ -1,0 +1,10 @@
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.dll
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.xml
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

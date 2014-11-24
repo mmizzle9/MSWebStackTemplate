@@ -1,0 +1,13 @@
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.dll
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.pdb
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.dll.mdb
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.AndroidApplication.apk
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.AndroidApplication-Signed.apk
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\AndroidApplication.dll
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\AndroidApplication.pdb
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\android\bin\AndroidApplication.AndroidApplication.apk
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\res\layout\main.xml
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\res\values\strings.xml
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\res\drawable\icon.png
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\R.cs.flag
+D:\GitHub\WebApplication\MVCApplication\AndroidApplication\obj\Debug\uploadflags.txt
