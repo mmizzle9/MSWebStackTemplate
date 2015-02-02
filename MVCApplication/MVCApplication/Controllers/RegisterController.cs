@@ -9,6 +9,6 @@ namespace MVCApplication.Controllers
 {
     public class RegisterController : ApiController
     {
-
+        [HttpPost, Route
     }
 }

@@ -8,3 +8,13 @@ D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework
 D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache
 D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.dll
 D:\GitHub\WebApplication\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.dll
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.xml
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\GitHub\MobileApi\MVCApplication\ServiceLibrary\obj\Debug\ServiceLibrary.pdb

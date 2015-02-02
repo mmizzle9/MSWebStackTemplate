@@ -1,1 +1,0 @@
-D:\GitHub\WebApplication\MVCApplication\AndroidApplication\bin\Debug\AndroidApplication.dll
